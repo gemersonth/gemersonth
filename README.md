@@ -13,8 +13,8 @@ Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendiza
 <br>
 
 <div style="width:100%; display:flex; gap:5px;">
-<img src="https://github-readme-stats.vercel.app/api?username=gemersonth&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width:48%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemersonth&layout=compact&theme=tokyonight" alt="Top langs" style="width:48%;">
+<img src="https://github-readme-stats.vercel.app/api?username=gemersonth&show_icons=true&theme=dark" alt="GitHub Stats" style="width:48%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemersonth&layout=compact&theme=dark" alt="Top langs" style="width:48%;">
 </div>
 
 <br>
