@@ -41,7 +41,19 @@ Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendiza
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="8" />
 </div>
+
+
+
 
 
 <br>
