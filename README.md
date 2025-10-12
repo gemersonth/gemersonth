@@ -48,7 +48,7 @@ Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendiza
 
 # Redes de Contato
 
-<div align="center" style="display:flex;">
+<div align="left" style="display:flex;">
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
