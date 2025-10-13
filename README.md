@@ -51,6 +51,7 @@ Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendiza
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"
 </div>
 
 
