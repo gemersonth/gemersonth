@@ -7,7 +7,7 @@ Sou desenvolvedor de software 💻, atualmente estou na graduação de *Sistemas
 Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendizado 📚.
 
 - 🚀 Atualmente estou aprendendo Desenvolvimento Web
-- 🛡️ Tenho bastante interesse na área de Cyber Segurançae e IoT
+- 🛡️ Tenho bastante interesse na área de Cyber Segurança e IoT
 - 🛠️ Faço uso de ferramentas para aumentar produtividade
 - 💡 Tenho conhecimentos em Eletrônica Básica e Hardware
 
