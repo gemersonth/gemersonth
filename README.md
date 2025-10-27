@@ -1,4 +1,4 @@
-<img src="title.svg" alt="root@gemersonth:~$">
+![root@gemersonth:~$](title.svg)
 
 <hr>
 
