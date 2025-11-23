@@ -2,14 +2,14 @@
 
 <hr>
 
-Sou desenvolvedor de software 💻, atualmente estou na graduação de *Sistemas de Informação* na **UniFAP** e estou a todo momento em busca de conhecimento 🧠.
+I'm a software developer 💻, currently studying *Information Systems* at **UniFAP**, and I'm constantly seeking knowledge 🧠.
 
-Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendizado 📚.
+Here I publish all the projects I develop during my learning journey 📚.
 
-- 🚀 Atualmente estou aprendendo Desenvolvimento Web
-- 🛡️ Tenho bastante interesse na área de Cyber Segurança e IoT
-- 🛠️ Faço uso de ferramentas para aumentar produtividade
-- 💡 Tenho conhecimentos em Eletrônica Básica e Hardware
+- 🚀 Currently learning Web Development
+- 🛡️ I have a strong interest in Cybersecurity and IoT
+- 🛠️ I use tools to increase productivity
+- 💡 I have knowledge of Basic Electronics and Hardware
 
 <br>
 
@@ -21,7 +21,7 @@ Aqui publico todos os projetos que desenvolvo durante minha jornada de aprendiza
 <br>
 <br>
 
-# Linguagens e Ferramentas
+# Languages ​​and Tools
 
 
 <div align="left">
