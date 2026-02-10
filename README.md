@@ -12,11 +12,12 @@ Here I publish all the projects I develop during my learning journey 📚.
 - 💡 I have knowledge of Basic Electronics and Hardware
 
 <br>
-
+<!--
 <div style="width:100%; display:flex; gap:5px;">
 <img src="https://github-readme-stats.vercel.app/api?username=gemersonth&show_icons=true&theme=dark" alt="GitHub Stats" style="width:48%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemersonth&layout=compact&theme=dark" alt="Top langs" style="width:48%;">
 </div>
+-->
 
 <br>
 <br>
