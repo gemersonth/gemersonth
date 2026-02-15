@@ -32,6 +32,8 @@ Here I publish all the projects I develop during my learning journey 📚.
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
